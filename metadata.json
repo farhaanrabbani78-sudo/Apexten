@@ -1,0 +1,8 @@
+{
+  "name": "ApexTen",
+  "description": "Class 10 diagnostic test mastery app with 10-20 min timed tests, AI study recommendations, educational rewards, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
